@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "449154087963",
+    "project_id": "prueba-app-faa7b",
+    "storage_bucket": "prueba-app-faa7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449154087963:android:3aefaf0bfd67fce6e30cbe",
+        "android_client_info": {
+          "package_name": "com.disruptivestudio.apartments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449154087963-9bb2uu1gb7kfdkqs4fjekdgbudhbitvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjOJP80XHFfTeA20haRvb6uv6csB5VgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449154087963-9bb2uu1gb7kfdkqs4fjekdgbudhbitvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449154087963:android:3fc38c0047fd7a98e30cbe",
+        "android_client_info": {
+          "package_name": "com.disruptivestudio.pruebads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449154087963-9bb2uu1gb7kfdkqs4fjekdgbudhbitvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjOJP80XHFfTeA20haRvb6uv6csB5VgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449154087963-9bb2uu1gb7kfdkqs4fjekdgbudhbitvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449154087963:android:4d2b6102cfb0d7f3e30cbe",
+        "android_client_info": {
+          "package_name": "com.disruptivestudio.pruebadsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449154087963-9bb2uu1gb7kfdkqs4fjekdgbudhbitvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjOJP80XHFfTeA20haRvb6uv6csB5VgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449154087963-9bb2uu1gb7kfdkqs4fjekdgbudhbitvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
